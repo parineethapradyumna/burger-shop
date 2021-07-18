@@ -1,0 +1,1 @@
+document.querySelector("body").innerHTML="<h1>Welcome to burger shop!</h1>"
